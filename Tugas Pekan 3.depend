@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728360700 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\codingan\tugas pekan 3\tugas pekan 3\main.cpp
+	<iostream>
+	"SLL.h"
+	"SLL.cpp"
+
+1728358795 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\codingan\tugas pekan 3\tugas pekan 3\sll.h
+	<iostream>
+
+1728360433 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\codingan\tugas pekan 3\tugas pekan 3\sll.cpp
+	<iostream>
+	"SLL.h"
+
