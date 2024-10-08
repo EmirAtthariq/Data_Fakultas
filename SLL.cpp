@@ -14,8 +14,12 @@ address New_elemen(infotype data){
 }
 
 void Insert_First(List &L, adr p) {
-    next(p) = first(L);
+    if (first(L) == NULL) {
+            first(L) = p;
+    }else{
+        next(p) = first(L);
     first(L) = p;
+    }
 }
 
 void Insert_Last(List &L, adr p) {
